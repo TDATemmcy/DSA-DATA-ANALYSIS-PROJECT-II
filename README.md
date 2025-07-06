@@ -27,6 +27,10 @@ Toys has the lowest volume of sales
 
 ![ADEJOBI DSA DATA ANALYSIS PROJECT ](https://github.com/user-attachments/assets/6c2b85fa-dfb5-4589-8d45-757d47c131bc)
 ![Screenshot 2025-07-03 102215](https://github.com/user-attachments/assets/79f23b64-604f-49ae-a5c7-7d8a7b868d1b)
+![Screenshot 2025-07-05 143656](https://github.com/user-attachments/assets/25b6a2f8-3df4-4634-86d3-74941b3a5d8c)
+![Screenshot 2025-07-05 143949](https://github.com/user-attachments/assets/893e3d69-33d7-481a-9915-d50aaf058116)
+
+
 
 
 
