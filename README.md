@@ -20,11 +20,13 @@ Toys has the lowest volume of sales
 *remove duplicates,
 *transform the data,
 *visualise the data on report view
-#### It was discovered that the 
-
+#### It was discovered that the; 
+*number of males gender are more than the female gender,
+*The males dominate in virtually all the deartment except human resources department.
+##### However, in terms of performance rating the females have high volume in very good more than the males.
 
 ![ADEJOBI DSA DATA ANALYSIS PROJECT ](https://github.com/user-attachments/assets/6c2b85fa-dfb5-4589-8d45-757d47c131bc)
-![AMAZON PIVOT](https://github.com/user-attachments/assets/b7f42083-4f33-4ed0-8430-f80d5bb44333)
+
 
 
 
