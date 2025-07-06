@@ -12,5 +12,22 @@ Toys has the lowest volume of sales
 ![Screenshot 2025-07-05 130613](https://github.com/user-attachments/assets/7db46a66-9d95-4bac-8f0a-a0da12189f94)
 ![Screenshot 2025-07-05 130746](https://github.com/user-attachments/assets/cd3c581f-3931-47db-be9f-c2f8d45b990d)
 
+# The second project work centered on gender inequality in Palmora group manufacturing company in three regions accross the country
+## Power BI is adopted to analyse the data
+### The process was to ;
+*clean the data by removing the staff that are no longer working with company,
+*remove department that indicate Null,
+*remove duplicates,
+*transform the data,
+*visualise the data on report view
+#### It was discovered that the 
+
+
+![ADEJOBI DSA DATA ANALYSIS PROJECT ](https://github.com/user-attachments/assets/6c2b85fa-dfb5-4589-8d45-757d47c131bc)
+![AMAZON PIVOT](https://github.com/user-attachments/assets/b7f42083-4f33-4ed0-8430-f80d5bb44333)
+
+
+
+
 
 
