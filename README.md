@@ -26,6 +26,8 @@ Toys has the lowest volume of sales
 ##### However, in terms of performance rating the females have high volume in very good more than the males.
 
 ![ADEJOBI DSA DATA ANALYSIS PROJECT ](https://github.com/user-attachments/assets/6c2b85fa-dfb5-4589-8d45-757d47c131bc)
+![Screenshot 2025-07-03 102215](https://github.com/user-attachments/assets/79f23b64-604f-49ae-a5c7-7d8a7b868d1b)
+
 
 
 
